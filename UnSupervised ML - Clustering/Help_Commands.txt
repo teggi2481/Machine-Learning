@@ -1,0 +1,10 @@
+1. Open Anaconda Terminal
+2. Below - set commnd is for the Python Version avaialble in the Anaconda
+   set PATH=%PATH%;C:\Users\ppundalikapp\Anaconda3\Library\bin; C:\Users\ppundalikapp\Anaconda3\Scripts;C:\Users\ppundalikapp\Anaconda3\condabin
+3. cd "G:\My Drive\AI and ML Projects - Uploaded to Github\Clustering"
+4. conda create --name Clustering_VEnv
+   ===>>> environment location: C:\Users\ppundalikapp\AppData\Local\anaconda3\envs\Clustering_VEnv
+5. conda env list
+6. conda activate Clustering_VEnv
+8. pip install -r requirements.txt
+9. conda deactivate
